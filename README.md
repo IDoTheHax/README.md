@@ -4,24 +4,23 @@ This is my Portfolio/about me page
 ### Hello there world 👋🏾, I'm IDoTheHax, and this is my Portfolio:
 
 ## What I can do:
-- Java, 2 years
-- Python, 4 years
-- C++, 1 year
-- html, 4 years
-- lua, a few weeks
+- **Java**, 2 years
+- **Python**, 4 years
+- **C++**, 1 year
+- **html**, 4 years
+- **javascript**, 2 years
+- **lua**, a few weeks
 
 What I practice my skills on:
 
-- Minecraft Modding
-- python games
-- 
+> - ⛏ **Minecraft Modding**
+> - 🐍 **Python Games**
+> - 🌐 **Web Development**
 
-- 🔭 I’m currently working on Many things, including learning Math, C++, C#, minecraft modding, and more
-- 🌱 I’m currently learning Object Oriented Design, and Graphics Programming (especially the math part!)
-- ⚡ Fun fact: I LOVE math, if you have any tips or anything, let me know!
+## My Life work:
+[The Bmbc Project](https://github.com/IDoTheHax/The-Bmbc-Project)
+![The Bmbc Project Logo]()
 
-I love to learn, especially about programming. If you have a comment or anything that will help me, please feel free to contact me!
 
-What I'm working on constantly changes, but I'll try to keep this page recent as to what I'm working on, and some of my code isn't public yet.
+Im always looking to improve, feel free to message me on discord **`IDoTheHax`** for tips, you can also ask me to help on your project
 
-I'm currently working on a BIG project! The project is a WIP, you can look at it [here](https://github.com/Gammer0909/DungeonCrawler)

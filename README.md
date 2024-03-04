@@ -11,16 +11,20 @@ This is my Portfolio/about me page
 - **javascript**, 2 years
 - **lua**, a few weeks
 
+## I also do
+- 🎨 Digital art
+- 🍩 3d modeling
+
 What I practice my skills on:
 
 > - ⛏ **Minecraft Modding**
 > - 🐍 **Python Games**
 > - 🌐 **Web Development**
 
+when not working i play minecraft, lurk in my discord or sleep
+
 ## My Life work:
 [The Bmbc Project](https://github.com/IDoTheHax/The-Bmbc-Project)
-![The Bmbc Project Logo]()
 
 
-Im always looking to improve, feel free to message me on discord **`IDoTheHax`** for tips, you can also ask me to help on your project
-
+Im always looking to improve, feel free to message me on discord **`@IDoTheHax`** for tips, you can also ask me to help on your project, depends on how i feel 😉

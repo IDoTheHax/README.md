@@ -15,16 +15,23 @@ This is my Portfolio/about me page
 - 🎨 Digital art
 - 🍩 3d modeling
 
-What I practice my skills on:
+**What I practice my skills on:**
 
 > - ⛏ **Minecraft Modding**
 > - 🐍 **Python Games**
 > - 🌐 **Web Development**
 
-when not working i play minecraft, lurk in my discord or sleep
+**I am an active developer for**
 
-## My Life work:
-[The Bmbc Project](https://github.com/IDoTheHax/The-Bmbc-Project)
+> - KingsMC.net: Front-end web, and plugin developer
+> - That's it lol 😂
 
+when not working i play minecraft, lurk in my discord or sleep.
 
-Im always looking to improve, feel free to message me on discord **`@IDoTheHax`** for tips, you can also ask me to help on your project, depends on how i feel 😉
+## My Life work ig?:
+[Kings mc:]
+(https://kingsmc.net)
+[The Bmbc Project:]
+(https://github.com/IDoTheHax/The-Bmbc-Project)
+
+Im always looking to improve, feel free to message me on discord **`@IDoTheHax`** for tips, you can also ask me to help on your project, depends on how i feel and if im paid. 😏

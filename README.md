@@ -23,7 +23,7 @@ This is my Portfolio/about me page
 
 **I am an active developer for**
 
-> - KingsMC.net: Front-end web, and plugin developer
+> - Solar SMP - Me and my friends @SniffMC Minecraft server
 > - That's it lol 😂
 
 when not working i play minecraft, lurk in my discord or sleep.
